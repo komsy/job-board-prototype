@@ -19,6 +19,7 @@ margin-left: 0px;
 }
 .search{
 	padding:150px 150px 205px 150px;
+
 }
 .searc{
   margin-left: 10%;
@@ -41,12 +42,12 @@ margin-left: 0px;
 }
 .card{
 	width: 18rem;
-	margin-top: 30px;	
+	margin-top: 10px;	
 	margin-left: 30px;
 }
 /* login and sign up css */
 .log{
-  width: 30%;
+  width: 50%;
 }
 .log span{
 padding-left: 30px;
@@ -118,6 +119,11 @@ height: 100%;
 .foot{
   background-color: black;
   color: white;
+  margin-top: 80px;
+}
+.foo{
+  background-color: black;
+  color: white;
   margin-top: 180px;
 }
 .footer{
@@ -139,4 +145,7 @@ height: 100%;
   margin-left: 30px;
   width: 285px;
   }
+  .log{
+  width: 80%;
+}
 }
