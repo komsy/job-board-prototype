@@ -23,8 +23,12 @@ margin-left: 0px;
 }
 .searc{
   margin-left: 10%;
-  margin-right: 80%;
+  margin-right: 8%;
   width: 50%;
+}
+.searc1{
+  margin-left: 10%;
+  width: 100%;
 }
 .container{
       width: 100%;
@@ -156,5 +160,12 @@ height: 100%;
   }
   .log{
   width: 80%;
+}
+.txt{
+  margin-left: 10px;
+}
+.card{
+  margin-left: 10px;
+  width: 18rem;
 }
 }
